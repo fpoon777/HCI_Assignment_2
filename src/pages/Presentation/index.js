@@ -54,7 +54,7 @@ function Presentation() {
                 },
               })}
             >
-              Home Finding Made Easy{" "}
+              Locate Crimes{" "}
             </MKTypography>
             <MKTypography
               variant="body1"
@@ -63,7 +63,7 @@ function Presentation() {
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              Choose Homes in Safe Places &amp; Avoid Homes in Dangerous Neighborhoods.
+              Avoid Homes in Dangerous Neighborhoods.
             </MKTypography>
           </Grid>
         </Container>

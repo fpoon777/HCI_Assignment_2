@@ -51,10 +51,11 @@ function Counters() {
           </Grid>
           <Grid item xs={12} md={4}>
             <DefaultCounterCard
-              count={500}
+              count={5}
+              suffix="+"
               color="error"
-              title="House Listings Requests"
-              description="There is a hard limit of 500 requests per month. Please don't overuse it!"
+              title="Hours of Work"
+              description="Spent a total of more than 5 hours on this assignment."
             />
           </Grid>
         </Grid>
